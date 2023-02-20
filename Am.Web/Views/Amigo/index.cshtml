@@ -1,0 +1,22 @@
+﻿@model List<Base.Domain.Entities.EAmigos>
+@{
+    ViewData["Title"] = "Meus Amigos";
+}
+
+<table>
+    <thead>
+        <tr>
+            <td> Amigos</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+{
+                <tr>
+                    <td>@item.Nome</td>
+                    <td>@item.Sobrenome</td>
+                    <td>@item.Dn</td>
+                </tr>
+}
+    </tbody>
+</table>
