@@ -1,0 +1,17 @@
+/Users/renanherrmann/Projects/TP1/Amigos.services/bin/Debug/net7.0/Amigos.services.deps.json
+/Users/renanherrmann/Projects/TP1/Amigos.services/bin/Debug/net7.0/Amigos.services.runtimeconfig.json
+/Users/renanherrmann/Projects/TP1/Amigos.services/bin/Debug/net7.0/Amigos.services.dll
+/Users/renanherrmann/Projects/TP1/Amigos.services/bin/Debug/net7.0/Amigos.services.pdb
+/Users/renanherrmann/Projects/TP1/Amigos.services/bin/Debug/net7.0/Base.Domain.dll
+/Users/renanherrmann/Projects/TP1/Amigos.services/bin/Debug/net7.0/Base.Domain.pdb
+/Users/renanherrmann/Projects/TP1/Amigos.services/obj/Debug/net7.0/Amigos.services.csproj.AssemblyReference.cache
+/Users/renanherrmann/Projects/TP1/Amigos.services/obj/Debug/net7.0/Amigos.services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renanherrmann/Projects/TP1/Amigos.services/obj/Debug/net7.0/Amigos.services.AssemblyInfoInputs.cache
+/Users/renanherrmann/Projects/TP1/Amigos.services/obj/Debug/net7.0/Amigos.services.AssemblyInfo.cs
+/Users/renanherrmann/Projects/TP1/Amigos.services/obj/Debug/net7.0/Amigos.services.csproj.CoreCompileInputs.cache
+/Users/renanherrmann/Projects/TP1/Amigos.services/obj/Debug/net7.0/Amigos.services.csproj.CopyComplete
+/Users/renanherrmann/Projects/TP1/Amigos.services/obj/Debug/net7.0/Amigos.services.dll
+/Users/renanherrmann/Projects/TP1/Amigos.services/obj/Debug/net7.0/refint/Amigos.services.dll
+/Users/renanherrmann/Projects/TP1/Amigos.services/obj/Debug/net7.0/Amigos.services.pdb
+/Users/renanherrmann/Projects/TP1/Amigos.services/obj/Debug/net7.0/Amigos.services.genruntimeconfig.cache
+/Users/renanherrmann/Projects/TP1/Amigos.services/obj/Debug/net7.0/ref/Amigos.services.dll

@@ -1,0 +1,12 @@
+/Users/renanherrmann/Projects/TP1/Base.Domain/bin/Debug/net7.0/Base.Domain.deps.json
+/Users/renanherrmann/Projects/TP1/Base.Domain/bin/Debug/net7.0/Base.Domain.dll
+/Users/renanherrmann/Projects/TP1/Base.Domain/bin/Debug/net7.0/Base.Domain.pdb
+/Users/renanherrmann/Projects/TP1/Base.Domain/obj/Debug/net7.0/Base.Domain.csproj.AssemblyReference.cache
+/Users/renanherrmann/Projects/TP1/Base.Domain/obj/Debug/net7.0/Base.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renanherrmann/Projects/TP1/Base.Domain/obj/Debug/net7.0/Base.Domain.AssemblyInfoInputs.cache
+/Users/renanherrmann/Projects/TP1/Base.Domain/obj/Debug/net7.0/Base.Domain.AssemblyInfo.cs
+/Users/renanherrmann/Projects/TP1/Base.Domain/obj/Debug/net7.0/Base.Domain.csproj.CoreCompileInputs.cache
+/Users/renanherrmann/Projects/TP1/Base.Domain/obj/Debug/net7.0/Base.Domain.dll
+/Users/renanherrmann/Projects/TP1/Base.Domain/obj/Debug/net7.0/refint/Base.Domain.dll
+/Users/renanherrmann/Projects/TP1/Base.Domain/obj/Debug/net7.0/Base.Domain.pdb
+/Users/renanherrmann/Projects/TP1/Base.Domain/obj/Debug/net7.0/ref/Base.Domain.dll

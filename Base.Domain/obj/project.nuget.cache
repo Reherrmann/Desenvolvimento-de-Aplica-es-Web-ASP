@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mrywjiaULnCq7XRzzk/3dFK/CiSg4dL7oHS5Ju4GahWm7n7Byoi1D20ScvZV6LI3iiutdxhXDHonPYuptBZA4g==",
+  "success": true,
+  "projectFilePath": "/Users/renanherrmann/Projects/TP1/Base.Domain/Base.Domain.csproj",
+  "expectedPackageFiles": [
+    "/Users/renanherrmann/.nuget/packages/bootstrap/5.2.3/bootstrap.5.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
